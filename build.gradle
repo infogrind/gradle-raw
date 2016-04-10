@@ -1,3 +1,5 @@
+description = 'Simple gradle build to go along with the User Guide'
+
 task compile << {
     println 'compiling source'
 }
